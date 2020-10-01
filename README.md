@@ -1,8 +1,11 @@
 # NOTICE
 
 //The included collection of scripts is _not_ for coinex.com, but for the (now out of business) site coinex.pw.
+
 //There is no association between myself and any "coinex" site.
+
 //THIS CODE IS PROBABLY NOT WHAT YOU ARE LOOKING FOR.
+
 //I am keeping it here for archival purposes.
 
 COINEX
